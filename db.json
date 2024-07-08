@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "name": "me",
+      "email": "me@gmail.com",
+      "password": "121212",
+      "id": "5160"
+    },
+    {
+      "id": "49a5",
+      "userName": "first",
+      "email": "first@gmail.com",
+      "password": "121213"
+    },
+    {
+      "id": "7280",
+      "userName": "b",
+      "email": "b@gmail.com",
+      "password": "1212"
+    },
+    {
+      "id": "fb37",
+      "userName": "Voluptatum consectet",
+      "email": "zoxefa@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ]
+}
